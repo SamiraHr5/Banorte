@@ -1,4 +1,4 @@
-# Banorte
+
 ## Equipo Technos
 #### Samira Hazim Rodriguez
 #### #Mariel Alvarez Salas
