@@ -13,7 +13,7 @@ This FlutterFlow-based project provides a secure and user-friendly experience fo
 - Extra email verification
 - Upload of official documents
 - Face and Face ID registration for secure login
-- 
+  
 ##### Account Access
 - View and manage your Banorte bank card details securely
 
